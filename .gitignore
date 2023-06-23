@@ -12,3 +12,4 @@ pipeline-scan-LATEST.zip
 .gitignore
 pipeline-scan-LATEST/README.md
 pipeline-scan-LATEST/pipeline-scan.jar
+filtered_results.json
