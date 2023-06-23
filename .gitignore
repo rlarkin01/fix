@@ -8,3 +8,7 @@ demo.ipynb
 demo/SQLvulnerability.class
 results.json
 fix-demo.ipynb
+pipeline-scan-LATEST.zip
+.gitignore
+pipeline-scan-LATEST/README.md
+pipeline-scan-LATEST/pipeline-scan.jar
